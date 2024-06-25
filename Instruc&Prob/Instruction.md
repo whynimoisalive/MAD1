@@ -39,7 +39,7 @@
   - The project code, including the project report with presentation video link, and the PDF of the project report should be in a single folder.
   - Zip the folder and submit it.
   - The project folder must be in the root directory of the zip submission folder, with no other files or folders in the root directory.
-- Below is an example of the ideal file tree structure.
+- Below is an example of the ideal file tree structure..
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXexYMK-Iebh58bIquePmDVN8pFtALwPGJkaxe-j6wwNRcR38ctVrTs22BYuqAaUiwxAqQL4U0v_HCdD8Q2ZBvQRU2DF7KvhvuLcQETGQM0wml-qZYcSmc5ATTWSG7d250EpxdrJ2bz2HmJbAbDGqA?key=90UDlnnmXE_hhsEwqQoPgg)
 
