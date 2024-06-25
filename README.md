@@ -1,5 +1,5 @@
 
-# MAD 1 Project - IITM
+# PromoSync
 
 Welcome to the repository for my MAD 1 (Mobile Application Development 1) project at IITM! This repository contains all the resources, code, and tutorials that I have used and developed throughout the course. It serves as a comprehensive collection of materials that can help others understand and build upon the project.
 
